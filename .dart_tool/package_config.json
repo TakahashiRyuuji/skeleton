@@ -362,13 +362,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "blog_web",
+      "name": "skeleton",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-17T22:18:03.868082Z",
+  "generated": "2021-10-18T08:26:03.324306Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

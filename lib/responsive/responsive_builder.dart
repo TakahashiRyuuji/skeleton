@@ -1,6 +1,6 @@
-import 'package:blog_web/responsive/sizing_information.dart';
+import 'package:skeleton/responsive/sizing_information.dart';
 import 'package:flutter/material.dart';
-import 'package:blog_web/utils/ui_utils.dart';
+import 'package:skeleton/utils/ui_utils.dart';
 
 class ResponsiveBuilder extends StatelessWidget {
   final Widget Function(

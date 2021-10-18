@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_builder/responsive_builder.dart';
-import 'package:blog_web/enums/device_screen_type.dart';
+import 'package:skeleton/enums/device_screen_type.dart';
 
 class SizingInformation {
   final DeviceScreenType deviceScreenType;
